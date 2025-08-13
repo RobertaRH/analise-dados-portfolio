@@ -75,9 +75,8 @@ Editar
 ---
 
 ## 📬 Contato / Contact
-💼 [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN)  
-📧 SEU-EMAIL@EXEMPLO.COM  
-🌐 [Portfólio Online](https://SEU-PORTFOLIO)  
+💼 https://www.linkedin.com/in/roberta-reis-heinrich/
+📧 roberta.heinrich@gmail.com
 📊 [GitHub](https://github.com/RobertaRH)
 
 ---
