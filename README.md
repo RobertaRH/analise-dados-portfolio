@@ -51,3 +51,33 @@ As análises utilizam **dados sintéticos realistas** ou conjuntos anonimizados,
 ---
 
 ## 📂 Estrutura do Repositório / Repository Structure
+.
+├── notebooks/ # Jupyter notebooks com análises e modelos
+├── src/ # Scripts Python reutilizáveis
+├── data/ # Dados sintéticos (versão pública)
+├── reports/ # Relatórios finais (PDF/Markdown)
+├── visualizations/ # Capturas de dashboards e gráficos
+└── README.md # Este arquivo
+
+yaml
+Copiar
+Editar
+
+---
+
+## 🎯 Próximos Projetos / Upcoming Projects
+- **Throughput & Predictability Analysis** com dados Jira/ADO
+- **AI-assisted Retrospective Insights** usando LLMs para detectar padrões de melhoria
+- **WIP Flow Optimization** via simulação de cenários
+- **Value Stream Mapping com IA** para identificar gargalos de entrega
+- **Dashboards Executivos** com métricas estratégicas para stakeholders
+
+---
+
+## 📬 Contato / Contact
+💼 [LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN)  
+📧 SEU-EMAIL@EXEMPLO.COM  
+🌐 [Portfólio Online](https://SEU-PORTFOLIO)  
+📊 [GitHub](https://github.com/RobertaRH)
+
+---
